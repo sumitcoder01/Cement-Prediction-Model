@@ -44,17 +44,3 @@ Include any relevant papers, articles, or resources that were used in building t
 **Contributing:**
 
 If you find any issues with the model or have suggestions for improvement, feel free to open an issue or submit a pull request.
-
-**License:**
-
-Specify the license under which the code is released (e.g., MIT License).
-
-**Author:**
-
-Provide your name and contact information.
-
-**Acknowledgments:**
-
-If you received any support or inspiration from individuals or organizations, acknowledge them here.
-
-**Note:** Modify the contents of the README file as per your specific model, data, and requirements.
